@@ -29,8 +29,8 @@
   "author": "Gregor Martynus",
   "license": "Apache-2.0",
   "devDependencies": {
-    "ava": "^4.3.3",
-    "c8": "^7.12.0",
+    "ava": "^8.0.1",
+    "c8": "^12.0.0",
     "prettier": "^2.0.0",
     "sinon": "^14.0.1",
     "tsd": "^0.24.1",
